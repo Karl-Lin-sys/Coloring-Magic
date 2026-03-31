@@ -1,0 +1,5 @@
+{
+  "name": "Coloring Magic",
+  "description": "A children's coloring book generator that creates custom 5-page coloring books with personalized covers.",
+  "requestFramePermissions": []
+}
